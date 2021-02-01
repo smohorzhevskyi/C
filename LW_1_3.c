@@ -19,7 +19,7 @@ int main() {
     puts("Please enter i and j:");
     scanf("%d %d", &i, &j);
 
-    while ((i || j) > N) {
+    while ((i > N) || (j > N)) {
         puts("Please re-enter i and j (should be <= N):");
         scanf("%d %d", &i, &j);
     }
