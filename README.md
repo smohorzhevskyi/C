@@ -1,6 +1,3 @@
-# C
-Learning C since December 2020
-
 LW_2.c
 Для двозв’язного списку імен (поля: name, surname) реалізувати функції:
 
